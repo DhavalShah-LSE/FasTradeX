@@ -1,0 +1,2 @@
+# FasTradeX
+trading App
